@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Nada Ahmed 👋
 
-<!--
-**NadaAhmed712/NadaAhmed712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+<br><br>
+- 💻 **Passionate backend developer** with expertise in .NET Core and C#, dedicated to building efficient and scalable web applications. ⚡
+- 💼 Currently working as a **Sessions Coordinator at Almentor** and an **Instructor at Cairo Coding School**.
+- 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
+- 🏆 `ECPC` Finalist (Egyptian Collegiate Programming Contest)
+- 🎓 I `graduated` from the [Computer and Artificial Intelligence](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Competitive Programming Profiles
