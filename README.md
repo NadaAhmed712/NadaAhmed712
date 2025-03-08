@@ -26,6 +26,13 @@
   </a>
 </div>
 
+## 🛠 Programming Languages & Tech Stack
+
+- 🖥️ **Programming Languages**: C#, Python, JavaScript, SQL
+- 🔧 **Frameworks & Tools**: .NET Core (MVC & API), Flask, Entity Framework, LINQ
+- 🗄️ **Databases**: SQL Server
+- 🎨 **Frontend**: HTML, CSS, JavaScript
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NadaAhmed712&show_icons=true&theme=dark)
